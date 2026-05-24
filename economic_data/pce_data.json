@@ -1,0 +1,3230 @@
+[
+    {
+        "Time Period": "1959M01",
+        "Data Value": "306,091"
+    },
+    {
+        "Time Period": "1959M02",
+        "Data Value": "309,554"
+    },
+    {
+        "Time Period": "1959M03",
+        "Data Value": "312,702"
+    },
+    {
+        "Time Period": "1959M04",
+        "Data Value": "312,193"
+    },
+    {
+        "Time Period": "1959M05",
+        "Data Value": "316,130"
+    },
+    {
+        "Time Period": "1959M06",
+        "Data Value": "318,193"
+    },
+    {
+        "Time Period": "1959M07",
+        "Data Value": "317,787"
+    },
+    {
+        "Time Period": "1959M08",
+        "Data Value": "320,161"
+    },
+    {
+        "Time Period": "1959M09",
+        "Data Value": "324,228"
+    },
+    {
+        "Time Period": "1959M10",
+        "Data Value": "322,794"
+    },
+    {
+        "Time Period": "1959M11",
+        "Data Value": "322,860"
+    },
+    {
+        "Time Period": "1959M12",
+        "Data Value": "322,871"
+    },
+    {
+        "Time Period": "1960M01",
+        "Data Value": "323,603"
+    },
+    {
+        "Time Period": "1960M02",
+        "Data Value": "325,338"
+    },
+    {
+        "Time Period": "1960M03",
+        "Data Value": "330,150"
+    },
+    {
+        "Time Period": "1960M04",
+        "Data Value": "336,482"
+    },
+    {
+        "Time Period": "1960M05",
+        "Data Value": "330,042"
+    },
+    {
+        "Time Period": "1960M06",
+        "Data Value": "330,102"
+    },
+    {
+        "Time Period": "1960M07",
+        "Data Value": "331,366"
+    },
+    {
+        "Time Period": "1960M08",
+        "Data Value": "331,613"
+    },
+    {
+        "Time Period": "1960M09",
+        "Data Value": "333,397"
+    },
+    {
+        "Time Period": "1960M10",
+        "Data Value": "335,398"
+    },
+    {
+        "Time Period": "1960M11",
+        "Data Value": "335,366"
+    },
+    {
+        "Time Period": "1960M12",
+        "Data Value": "331,307"
+    },
+    {
+        "Time Period": "1961M01",
+        "Data Value": "332,178"
+    },
+    {
+        "Time Period": "1961M02",
+        "Data Value": "333,717"
+    },
+    {
+        "Time Period": "1961M03",
+        "Data Value": "337,664"
+    },
+    {
+        "Time Period": "1961M04",
+        "Data Value": "337,639"
+    },
+    {
+        "Time Period": "1961M05",
+        "Data Value": "339,870"
+    },
+    {
+        "Time Period": "1961M06",
+        "Data Value": "340,857"
+    },
+    {
+        "Time Period": "1961M07",
+        "Data Value": "340,560"
+    },
+    {
+        "Time Period": "1961M08",
+        "Data Value": "342,068"
+    },
+    {
+        "Time Period": "1961M09",
+        "Data Value": "344,368"
+    },
+    {
+        "Time Period": "1961M10",
+        "Data Value": "346,499"
+    },
+    {
+        "Time Period": "1961M11",
+        "Data Value": "349,881"
+    },
+    {
+        "Time Period": "1961M12",
+        "Data Value": "352,398"
+    },
+    {
+        "Time Period": "1962M01",
+        "Data Value": "353,161"
+    },
+    {
+        "Time Period": "1962M02",
+        "Data Value": "353,951"
+    },
+    {
+        "Time Period": "1962M03",
+        "Data Value": "357,353"
+    },
+    {
+        "Time Period": "1962M04",
+        "Data Value": "359,006"
+    },
+    {
+        "Time Period": "1962M05",
+        "Data Value": "361,978"
+    },
+    {
+        "Time Period": "1962M06",
+        "Data Value": "360,389"
+    },
+    {
+        "Time Period": "1962M07",
+        "Data Value": "361,358"
+    },
+    {
+        "Time Period": "1962M08",
+        "Data Value": "362,882"
+    },
+    {
+        "Time Period": "1962M09",
+        "Data Value": "368,757"
+    },
+    {
+        "Time Period": "1962M10",
+        "Data Value": "366,548"
+    },
+    {
+        "Time Period": "1962M11",
+        "Data Value": "371,684"
+    },
+    {
+        "Time Period": "1962M12",
+        "Data Value": "373,621"
+    },
+    {
+        "Time Period": "1963M01",
+        "Data Value": "374,423"
+    },
+    {
+        "Time Period": "1963M02",
+        "Data Value": "373,411"
+    },
+    {
+        "Time Period": "1963M03",
+        "Data Value": "375,016"
+    },
+    {
+        "Time Period": "1963M04",
+        "Data Value": "376,350"
+    },
+    {
+        "Time Period": "1963M05",
+        "Data Value": "377,205"
+    },
+    {
+        "Time Period": "1963M06",
+        "Data Value": "381,683"
+    },
+    {
+        "Time Period": "1963M07",
+        "Data Value": "384,407"
+    },
+    {
+        "Time Period": "1963M08",
+        "Data Value": "386,287"
+    },
+    {
+        "Time Period": "1963M09",
+        "Data Value": "385,488"
+    },
+    {
+        "Time Period": "1963M10",
+        "Data Value": "386,023"
+    },
+    {
+        "Time Period": "1963M11",
+        "Data Value": "389,440"
+    },
+    {
+        "Time Period": "1963M12",
+        "Data Value": "394,684"
+    },
+    {
+        "Time Period": "1964M01",
+        "Data Value": "396,783"
+    },
+    {
+        "Time Period": "1964M02",
+        "Data Value": "400,161"
+    },
+    {
+        "Time Period": "1964M03",
+        "Data Value": "401,801"
+    },
+    {
+        "Time Period": "1964M04",
+        "Data Value": "402,823"
+    },
+    {
+        "Time Period": "1964M05",
+        "Data Value": "408,431"
+    },
+    {
+        "Time Period": "1964M06",
+        "Data Value": "411,355"
+    },
+    {
+        "Time Period": "1964M07",
+        "Data Value": "414,912"
+    },
+    {
+        "Time Period": "1964M08",
+        "Data Value": "417,737"
+    },
+    {
+        "Time Period": "1964M09",
+        "Data Value": "416,618"
+    },
+    {
+        "Time Period": "1964M10",
+        "Data Value": "419,602"
+    },
+    {
+        "Time Period": "1964M11",
+        "Data Value": "416,359"
+    },
+    {
+        "Time Period": "1964M12",
+        "Data Value": "421,001"
+    },
+    {
+        "Time Period": "1965M01",
+        "Data Value": "424,440"
+    },
+    {
+        "Time Period": "1965M02",
+        "Data Value": "431,397"
+    },
+    {
+        "Time Period": "1965M03",
+        "Data Value": "433,297"
+    },
+    {
+        "Time Period": "1965M04",
+        "Data Value": "437,059"
+    },
+    {
+        "Time Period": "1965M05",
+        "Data Value": "437,625"
+    },
+    {
+        "Time Period": "1965M06",
+        "Data Value": "435,243"
+    },
+    {
+        "Time Period": "1965M07",
+        "Data Value": "441,033"
+    },
+    {
+        "Time Period": "1965M08",
+        "Data Value": "444,375"
+    },
+    {
+        "Time Period": "1965M09",
+        "Data Value": "452,006"
+    },
+    {
+        "Time Period": "1965M10",
+        "Data Value": "458,479"
+    },
+    {
+        "Time Period": "1965M11",
+        "Data Value": "459,054"
+    },
+    {
+        "Time Period": "1965M12",
+        "Data Value": "461,673"
+    },
+    {
+        "Time Period": "1966M01",
+        "Data Value": "465,158"
+    },
+    {
+        "Time Period": "1966M02",
+        "Data Value": "470,220"
+    },
+    {
+        "Time Period": "1966M03",
+        "Data Value": "475,031"
+    },
+    {
+        "Time Period": "1966M04",
+        "Data Value": "476,948"
+    },
+    {
+        "Time Period": "1966M05",
+        "Data Value": "473,094"
+    },
+    {
+        "Time Period": "1966M06",
+        "Data Value": "475,524"
+    },
+    {
+        "Time Period": "1966M07",
+        "Data Value": "480,562"
+    },
+    {
+        "Time Period": "1966M08",
+        "Data Value": "483,152"
+    },
+    {
+        "Time Period": "1966M09",
+        "Data Value": "489,159"
+    },
+    {
+        "Time Period": "1966M10",
+        "Data Value": "488,285"
+    },
+    {
+        "Time Period": "1966M11",
+        "Data Value": "490,050"
+    },
+    {
+        "Time Period": "1966M12",
+        "Data Value": "491,843"
+    },
+    {
+        "Time Period": "1967M01",
+        "Data Value": "494,203"
+    },
+    {
+        "Time Period": "1967M02",
+        "Data Value": "492,952"
+    },
+    {
+        "Time Period": "1967M03",
+        "Data Value": "495,797"
+    },
+    {
+        "Time Period": "1967M04",
+        "Data Value": "501,315"
+    },
+    {
+        "Time Period": "1967M05",
+        "Data Value": "502,243"
+    },
+    {
+        "Time Period": "1967M06",
+        "Data Value": "506,814"
+    },
+    {
+        "Time Period": "1967M07",
+        "Data Value": "506,708"
+    },
+    {
+        "Time Period": "1967M08",
+        "Data Value": "509,821"
+    },
+    {
+        "Time Period": "1967M09",
+        "Data Value": "515,622"
+    },
+    {
+        "Time Period": "1967M10",
+        "Data Value": "512,203"
+    },
+    {
+        "Time Period": "1967M11",
+        "Data Value": "517,400"
+    },
+    {
+        "Time Period": "1967M12",
+        "Data Value": "525,145"
+    },
+    {
+        "Time Period": "1968M01",
+        "Data Value": "530,934"
+    },
+    {
+        "Time Period": "1968M02",
+        "Data Value": "533,622"
+    },
+    {
+        "Time Period": "1968M03",
+        "Data Value": "544,333"
+    },
+    {
+        "Time Period": "1968M04",
+        "Data Value": "544,007"
+    },
+    {
+        "Time Period": "1968M05",
+        "Data Value": "549,783"
+    },
+    {
+        "Time Period": "1968M06",
+        "Data Value": "556,253"
+    },
+    {
+        "Time Period": "1968M07",
+        "Data Value": "563,156"
+    },
+    {
+        "Time Period": "1968M08",
+        "Data Value": "567,007"
+    },
+    {
+        "Time Period": "1968M09",
+        "Data Value": "568,203"
+    },
+    {
+        "Time Period": "1968M10",
+        "Data Value": "571,644"
+    },
+    {
+        "Time Period": "1968M11",
+        "Data Value": "576,748"
+    },
+    {
+        "Time Period": "1968M12",
+        "Data Value": "576,540"
+    },
+    {
+        "Time Period": "1969M01",
+        "Data Value": "583,479"
+    },
+    {
+        "Time Period": "1969M02",
+        "Data Value": "588,675"
+    },
+    {
+        "Time Period": "1969M03",
+        "Data Value": "588,862"
+    },
+    {
+        "Time Period": "1969M04",
+        "Data Value": "593,870"
+    },
+    {
+        "Time Period": "1969M05",
+        "Data Value": "600,271"
+    },
+    {
+        "Time Period": "1969M06",
+        "Data Value": "600,869"
+    },
+    {
+        "Time Period": "1969M07",
+        "Data Value": "602,700"
+    },
+    {
+        "Time Period": "1969M08",
+        "Data Value": "609,939"
+    },
+    {
+        "Time Period": "1969M09",
+        "Data Value": "613,239"
+    },
+    {
+        "Time Period": "1969M10",
+        "Data Value": "618,515"
+    },
+    {
+        "Time Period": "1969M11",
+        "Data Value": "620,476"
+    },
+    {
+        "Time Period": "1969M12",
+        "Data Value": "622,768"
+    },
+    {
+        "Time Period": "1970M01",
+        "Data Value": "628,728"
+    },
+    {
+        "Time Period": "1970M02",
+        "Data Value": "633,992"
+    },
+    {
+        "Time Period": "1970M03",
+        "Data Value": "632,334"
+    },
+    {
+        "Time Period": "1970M04",
+        "Data Value": "636,017"
+    },
+    {
+        "Time Period": "1970M05",
+        "Data Value": "642,427"
+    },
+    {
+        "Time Period": "1970M06",
+        "Data Value": "646,268"
+    },
+    {
+        "Time Period": "1970M07",
+        "Data Value": "648,472"
+    },
+    {
+        "Time Period": "1970M08",
+        "Data Value": "652,907"
+    },
+    {
+        "Time Period": "1970M09",
+        "Data Value": "659,068"
+    },
+    {
+        "Time Period": "1970M10",
+        "Data Value": "658,315"
+    },
+    {
+        "Time Period": "1970M11",
+        "Data Value": "656,559"
+    },
+    {
+        "Time Period": "1970M12",
+        "Data Value": "665,608"
+    },
+    {
+        "Time Period": "1971M01",
+        "Data Value": "676,149"
+    },
+    {
+        "Time Period": "1971M02",
+        "Data Value": "679,409"
+    },
+    {
+        "Time Period": "1971M03",
+        "Data Value": "682,000"
+    },
+    {
+        "Time Period": "1971M04",
+        "Data Value": "688,759"
+    },
+    {
+        "Time Period": "1971M05",
+        "Data Value": "691,134"
+    },
+    {
+        "Time Period": "1971M06",
+        "Data Value": "699,781"
+    },
+    {
+        "Time Period": "1971M07",
+        "Data Value": "698,881"
+    },
+    {
+        "Time Period": "1971M08",
+        "Data Value": "704,916"
+    },
+    {
+        "Time Period": "1971M09",
+        "Data Value": "712,999"
+    },
+    {
+        "Time Period": "1971M10",
+        "Data Value": "715,838"
+    },
+    {
+        "Time Period": "1971M11",
+        "Data Value": "720,940"
+    },
+    {
+        "Time Period": "1971M12",
+        "Data Value": "728,438"
+    },
+    {
+        "Time Period": "1972M01",
+        "Data Value": "731,497"
+    },
+    {
+        "Time Period": "1972M02",
+        "Data Value": "736,160"
+    },
+    {
+        "Time Period": "1972M03",
+        "Data Value": "749,188"
+    },
+    {
+        "Time Period": "1972M04",
+        "Data Value": "752,541"
+    },
+    {
+        "Time Period": "1972M05",
+        "Data Value": "757,962"
+    },
+    {
+        "Time Period": "1972M06",
+        "Data Value": "761,589"
+    },
+    {
+        "Time Period": "1972M07",
+        "Data Value": "769,918"
+    },
+    {
+        "Time Period": "1972M08",
+        "Data Value": "776,335"
+    },
+    {
+        "Time Period": "1972M09",
+        "Data Value": "781,143"
+    },
+    {
+        "Time Period": "1972M10",
+        "Data Value": "794,943"
+    },
+    {
+        "Time Period": "1972M11",
+        "Data Value": "800,451"
+    },
+    {
+        "Time Period": "1972M12",
+        "Data Value": "806,112"
+    },
+    {
+        "Time Period": "1973M01",
+        "Data Value": "816,471"
+    },
+    {
+        "Time Period": "1973M02",
+        "Data Value": "825,800"
+    },
+    {
+        "Time Period": "1973M03",
+        "Data Value": "832,750"
+    },
+    {
+        "Time Period": "1973M04",
+        "Data Value": "835,703"
+    },
+    {
+        "Time Period": "1973M05",
+        "Data Value": "841,581"
+    },
+    {
+        "Time Period": "1973M06",
+        "Data Value": "844,298"
+    },
+    {
+        "Time Period": "1973M07",
+        "Data Value": "854,131"
+    },
+    {
+        "Time Period": "1973M08",
+        "Data Value": "853,252"
+    },
+    {
+        "Time Period": "1973M09",
+        "Data Value": "869,246"
+    },
+    {
+        "Time Period": "1973M10",
+        "Data Value": "868,163"
+    },
+    {
+        "Time Period": "1973M11",
+        "Data Value": "876,880"
+    },
+    {
+        "Time Period": "1973M12",
+        "Data Value": "876,619"
+    },
+    {
+        "Time Period": "1974M01",
+        "Data Value": "884,533"
+    },
+    {
+        "Time Period": "1974M02",
+        "Data Value": "889,670"
+    },
+    {
+        "Time Period": "1974M03",
+        "Data Value": "901,400"
+    },
+    {
+        "Time Period": "1974M04",
+        "Data Value": "910,797"
+    },
+    {
+        "Time Period": "1974M05",
+        "Data Value": "922,436"
+    },
+    {
+        "Time Period": "1974M06",
+        "Data Value": "928,033"
+    },
+    {
+        "Time Period": "1974M07",
+        "Data Value": "937,949"
+    },
+    {
+        "Time Period": "1974M08",
+        "Data Value": "954,819"
+    },
+    {
+        "Time Period": "1974M09",
+        "Data Value": "955,059"
+    },
+    {
+        "Time Period": "1974M10",
+        "Data Value": "959,232"
+    },
+    {
+        "Time Period": "1974M11",
+        "Data Value": "956,186"
+    },
+    {
+        "Time Period": "1974M12",
+        "Data Value": "961,818"
+    },
+    {
+        "Time Period": "1975M01",
+        "Data Value": "975,602"
+    },
+    {
+        "Time Period": "1975M02",
+        "Data Value": "989,395"
+    },
+    {
+        "Time Period": "1975M03",
+        "Data Value": "990,575"
+    },
+    {
+        "Time Period": "1975M04",
+        "Data Value": "995,033"
+    },
+    {
+        "Time Period": "1975M05",
+        "Data Value": "1,018,937"
+    },
+    {
+        "Time Period": "1975M06",
+        "Data Value": "1,026,777"
+    },
+    {
+        "Time Period": "1975M07",
+        "Data Value": "1,039,789"
+    },
+    {
+        "Time Period": "1975M08",
+        "Data Value": "1,046,958"
+    },
+    {
+        "Time Period": "1975M09",
+        "Data Value": "1,054,829"
+    },
+    {
+        "Time Period": "1975M10",
+        "Data Value": "1,060,854"
+    },
+    {
+        "Time Period": "1975M11",
+        "Data Value": "1,075,758"
+    },
+    {
+        "Time Period": "1975M12",
+        "Data Value": "1,092,058"
+    },
+    {
+        "Time Period": "1976M01",
+        "Data Value": "1,107,148"
+    },
+    {
+        "Time Period": "1976M02",
+        "Data Value": "1,107,695"
+    },
+    {
+        "Time Period": "1976M03",
+        "Data Value": "1,114,879"
+    },
+    {
+        "Time Period": "1976M04",
+        "Data Value": "1,125,424"
+    },
+    {
+        "Time Period": "1976M05",
+        "Data Value": "1,122,700"
+    },
+    {
+        "Time Period": "1976M06",
+        "Data Value": "1,140,496"
+    },
+    {
+        "Time Period": "1976M07",
+        "Data Value": "1,149,590"
+    },
+    {
+        "Time Period": "1976M08",
+        "Data Value": "1,157,982"
+    },
+    {
+        "Time Period": "1976M09",
+        "Data Value": "1,168,847"
+    },
+    {
+        "Time Period": "1976M10",
+        "Data Value": "1,176,784"
+    },
+    {
+        "Time Period": "1976M11",
+        "Data Value": "1,188,960"
+    },
+    {
+        "Time Period": "1976M12",
+        "Data Value": "1,211,481"
+    },
+    {
+        "Time Period": "1977M01",
+        "Data Value": "1,214,984"
+    },
+    {
+        "Time Period": "1977M02",
+        "Data Value": "1,231,325"
+    },
+    {
+        "Time Period": "1977M03",
+        "Data Value": "1,238,329"
+    },
+    {
+        "Time Period": "1977M04",
+        "Data Value": "1,247,267"
+    },
+    {
+        "Time Period": "1977M05",
+        "Data Value": "1,257,068"
+    },
+    {
+        "Time Period": "1977M06",
+        "Data Value": "1,263,605"
+    },
+    {
+        "Time Period": "1977M07",
+        "Data Value": "1,280,483"
+    },
+    {
+        "Time Period": "1977M08",
+        "Data Value": "1,285,687"
+    },
+    {
+        "Time Period": "1977M09",
+        "Data Value": "1,294,544"
+    },
+    {
+        "Time Period": "1977M10",
+        "Data Value": "1,311,405"
+    },
+    {
+        "Time Period": "1977M11",
+        "Data Value": "1,326,983"
+    },
+    {
+        "Time Period": "1977M12",
+        "Data Value": "1,336,024"
+    },
+    {
+        "Time Period": "1978M01",
+        "Data Value": "1,329,486"
+    },
+    {
+        "Time Period": "1978M02",
+        "Data Value": "1,355,131"
+    },
+    {
+        "Time Period": "1978M03",
+        "Data Value": "1,377,542"
+    },
+    {
+        "Time Period": "1978M04",
+        "Data Value": "1,396,368"
+    },
+    {
+        "Time Period": "1978M05",
+        "Data Value": "1,411,964"
+    },
+    {
+        "Time Period": "1978M06",
+        "Data Value": "1,425,824"
+    },
+    {
+        "Time Period": "1978M07",
+        "Data Value": "1,426,815"
+    },
+    {
+        "Time Period": "1978M08",
+        "Data Value": "1,446,954"
+    },
+    {
+        "Time Period": "1978M09",
+        "Data Value": "1,452,881"
+    },
+    {
+        "Time Period": "1978M10",
+        "Data Value": "1,466,922"
+    },
+    {
+        "Time Period": "1978M11",
+        "Data Value": "1,480,617"
+    },
+    {
+        "Time Period": "1978M12",
+        "Data Value": "1,496,523"
+    },
+    {
+        "Time Period": "1979M01",
+        "Data Value": "1,502,425"
+    },
+    {
+        "Time Period": "1979M02",
+        "Data Value": "1,517,821"
+    },
+    {
+        "Time Period": "1979M03",
+        "Data Value": "1,531,178"
+    },
+    {
+        "Time Period": "1979M04",
+        "Data Value": "1,538,448"
+    },
+    {
+        "Time Period": "1979M05",
+        "Data Value": "1,558,800"
+    },
+    {
+        "Time Period": "1979M06",
+        "Data Value": "1,575,659"
+    },
+    {
+        "Time Period": "1979M07",
+        "Data Value": "1,586,126"
+    },
+    {
+        "Time Period": "1979M08",
+        "Data Value": "1,615,572"
+    },
+    {
+        "Time Period": "1979M09",
+        "Data Value": "1,633,904"
+    },
+    {
+        "Time Period": "1979M10",
+        "Data Value": "1,641,601"
+    },
+    {
+        "Time Period": "1979M11",
+        "Data Value": "1,657,250"
+    },
+    {
+        "Time Period": "1979M12",
+        "Data Value": "1,666,255"
+    },
+    {
+        "Time Period": "1980M01",
+        "Data Value": "1,697,298"
+    },
+    {
+        "Time Period": "1980M02",
+        "Data Value": "1,701,393"
+    },
+    {
+        "Time Period": "1980M03",
+        "Data Value": "1,708,215"
+    },
+    {
+        "Time Period": "1980M04",
+        "Data Value": "1,695,241"
+    },
+    {
+        "Time Period": "1980M05",
+        "Data Value": "1,700,079"
+    },
+    {
+        "Time Period": "1980M06",
+        "Data Value": "1,718,848"
+    },
+    {
+        "Time Period": "1980M07",
+        "Data Value": "1,747,082"
+    },
+    {
+        "Time Period": "1980M08",
+        "Data Value": "1,763,778"
+    },
+    {
+        "Time Period": "1980M09",
+        "Data Value": "1,780,453"
+    },
+    {
+        "Time Period": "1980M10",
+        "Data Value": "1,817,093"
+    },
+    {
+        "Time Period": "1980M11",
+        "Data Value": "1,826,815"
+    },
+    {
+        "Time Period": "1980M12",
+        "Data Value": "1,851,714"
+    },
+    {
+        "Time Period": "1981M01",
+        "Data Value": "1,870,041"
+    },
+    {
+        "Time Period": "1981M02",
+        "Data Value": "1,884,239"
+    },
+    {
+        "Time Period": "1981M03",
+        "Data Value": "1,902,921"
+    },
+    {
+        "Time Period": "1981M04",
+        "Data Value": "1,904,356"
+    },
+    {
+        "Time Period": "1981M05",
+        "Data Value": "1,913,765"
+    },
+    {
+        "Time Period": "1981M06",
+        "Data Value": "1,934,451"
+    },
+    {
+        "Time Period": "1981M07",
+        "Data Value": "1,942,122"
+    },
+    {
+        "Time Period": "1981M08",
+        "Data Value": "1,966,640"
+    },
+    {
+        "Time Period": "1981M09",
+        "Data Value": "1,965,535"
+    },
+    {
+        "Time Period": "1981M10",
+        "Data Value": "1,963,887"
+    },
+    {
+        "Time Period": "1981M11",
+        "Data Value": "1,970,646"
+    },
+    {
+        "Time Period": "1981M12",
+        "Data Value": "1,988,808"
+    },
+    {
+        "Time Period": "1982M01",
+        "Data Value": "1,997,087"
+    },
+    {
+        "Time Period": "1982M02",
+        "Data Value": "2,021,248"
+    },
+    {
+        "Time Period": "1982M03",
+        "Data Value": "2,024,130"
+    },
+    {
+        "Time Period": "1982M04",
+        "Data Value": "2,026,327"
+    },
+    {
+        "Time Period": "1982M05",
+        "Data Value": "2,044,491"
+    },
+    {
+        "Time Period": "1982M06",
+        "Data Value": "2,048,116"
+    },
+    {
+        "Time Period": "1982M07",
+        "Data Value": "2,072,242"
+    },
+    {
+        "Time Period": "1982M08",
+        "Data Value": "2,080,123"
+    },
+    {
+        "Time Period": "1982M09",
+        "Data Value": "2,104,649"
+    },
+    {
+        "Time Period": "1982M10",
+        "Data Value": "2,125,774"
+    },
+    {
+        "Time Period": "1982M11",
+        "Data Value": "2,149,261"
+    },
+    {
+        "Time Period": "1982M12",
+        "Data Value": "2,161,628"
+    },
+    {
+        "Time Period": "1983M01",
+        "Data Value": "2,173,954"
+    },
+    {
+        "Time Period": "1983M02",
+        "Data Value": "2,177,039"
+    },
+    {
+        "Time Period": "1983M03",
+        "Data Value": "2,202,774"
+    },
+    {
+        "Time Period": "1983M04",
+        "Data Value": "2,226,393"
+    },
+    {
+        "Time Period": "1983M05",
+        "Data Value": "2,245,902"
+    },
+    {
+        "Time Period": "1983M06",
+        "Data Value": "2,276,020"
+    },
+    {
+        "Time Period": "1983M07",
+        "Data Value": "2,304,398"
+    },
+    {
+        "Time Period": "1983M08",
+        "Data Value": "2,320,429"
+    },
+    {
+        "Time Period": "1983M09",
+        "Data Value": "2,334,858"
+    },
+    {
+        "Time Period": "1983M10",
+        "Data Value": "2,357,587"
+    },
+    {
+        "Time Period": "1983M11",
+        "Data Value": "2,366,269"
+    },
+    {
+        "Time Period": "1983M12",
+        "Data Value": "2,393,632"
+    },
+    {
+        "Time Period": "1984M01",
+        "Data Value": "2,419,379"
+    },
+    {
+        "Time Period": "1984M02",
+        "Data Value": "2,403,535"
+    },
+    {
+        "Time Period": "1984M03",
+        "Data Value": "2,431,581"
+    },
+    {
+        "Time Period": "1984M04",
+        "Data Value": "2,457,516"
+    },
+    {
+        "Time Period": "1984M05",
+        "Data Value": "2,474,478"
+    },
+    {
+        "Time Period": "1984M06",
+        "Data Value": "2,495,634"
+    },
+    {
+        "Time Period": "1984M07",
+        "Data Value": "2,494,602"
+    },
+    {
+        "Time Period": "1984M08",
+        "Data Value": "2,512,193"
+    },
+    {
+        "Time Period": "1984M09",
+        "Data Value": "2,533,775"
+    },
+    {
+        "Time Period": "1984M10",
+        "Data Value": "2,531,326"
+    },
+    {
+        "Time Period": "1984M11",
+        "Data Value": "2,571,438"
+    },
+    {
+        "Time Period": "1984M12",
+        "Data Value": "2,582,626"
+    },
+    {
+        "Time Period": "1985M01",
+        "Data Value": "2,618,764"
+    },
+    {
+        "Time Period": "1985M02",
+        "Data Value": "2,640,778"
+    },
+    {
+        "Time Period": "1985M03",
+        "Data Value": "2,648,481"
+    },
+    {
+        "Time Period": "1985M04",
+        "Data Value": "2,659,479"
+    },
+    {
+        "Time Period": "1985M05",
+        "Data Value": "2,696,421"
+    },
+    {
+        "Time Period": "1985M06",
+        "Data Value": "2,689,393"
+    },
+    {
+        "Time Period": "1985M07",
+        "Data Value": "2,715,697"
+    },
+    {
+        "Time Period": "1985M08",
+        "Data Value": "2,752,098"
+    },
+    {
+        "Time Period": "1985M09",
+        "Data Value": "2,794,650"
+    },
+    {
+        "Time Period": "1985M10",
+        "Data Value": "2,755,779"
+    },
+    {
+        "Time Period": "1985M11",
+        "Data Value": "2,771,148"
+    },
+    {
+        "Time Period": "1985M12",
+        "Data Value": "2,811,273"
+    },
+    {
+        "Time Period": "1986M01",
+        "Data Value": "2,827,130"
+    },
+    {
+        "Time Period": "1986M02",
+        "Data Value": "2,820,196"
+    },
+    {
+        "Time Period": "1986M03",
+        "Data Value": "2,823,619"
+    },
+    {
+        "Time Period": "1986M04",
+        "Data Value": "2,835,206"
+    },
+    {
+        "Time Period": "1986M05",
+        "Data Value": "2,857,488"
+    },
+    {
+        "Time Period": "1986M06",
+        "Data Value": "2,861,673"
+    },
+    {
+        "Time Period": "1986M07",
+        "Data Value": "2,881,188"
+    },
+    {
+        "Time Period": "1986M08",
+        "Data Value": "2,898,579"
+    },
+    {
+        "Time Period": "1986M09",
+        "Data Value": "2,971,835"
+    },
+    {
+        "Time Period": "1986M10",
+        "Data Value": "2,932,936"
+    },
+    {
+        "Time Period": "1986M11",
+        "Data Value": "2,928,413"
+    },
+    {
+        "Time Period": "1986M12",
+        "Data Value": "2,997,074"
+    },
+    {
+        "Time Period": "1987M01",
+        "Data Value": "2,935,534"
+    },
+    {
+        "Time Period": "1987M02",
+        "Data Value": "3,001,715"
+    },
+    {
+        "Time Period": "1987M03",
+        "Data Value": "3,013,291"
+    },
+    {
+        "Time Period": "1987M04",
+        "Data Value": "3,038,838"
+    },
+    {
+        "Time Period": "1987M05",
+        "Data Value": "3,048,401"
+    },
+    {
+        "Time Period": "1987M06",
+        "Data Value": "3,072,751"
+    },
+    {
+        "Time Period": "1987M07",
+        "Data Value": "3,094,743"
+    },
+    {
+        "Time Period": "1987M08",
+        "Data Value": "3,130,801"
+    },
+    {
+        "Time Period": "1987M09",
+        "Data Value": "3,126,529"
+    },
+    {
+        "Time Period": "1987M10",
+        "Data Value": "3,134,528"
+    },
+    {
+        "Time Period": "1987M11",
+        "Data Value": "3,144,166"
+    },
+    {
+        "Time Period": "1987M12",
+        "Data Value": "3,174,055"
+    },
+    {
+        "Time Period": "1988M01",
+        "Data Value": "3,213,729"
+    },
+    {
+        "Time Period": "1988M02",
+        "Data Value": "3,221,419"
+    },
+    {
+        "Time Period": "1988M03",
+        "Data Value": "3,260,540"
+    },
+    {
+        "Time Period": "1988M04",
+        "Data Value": "3,262,972"
+    },
+    {
+        "Time Period": "1988M05",
+        "Data Value": "3,293,642"
+    },
+    {
+        "Time Period": "1988M06",
+        "Data Value": "3,318,535"
+    },
+    {
+        "Time Period": "1988M07",
+        "Data Value": "3,342,733"
+    },
+    {
+        "Time Period": "1988M08",
+        "Data Value": "3,367,972"
+    },
+    {
+        "Time Period": "1988M09",
+        "Data Value": "3,374,992"
+    },
+    {
+        "Time Period": "1988M10",
+        "Data Value": "3,413,661"
+    },
+    {
+        "Time Period": "1988M11",
+        "Data Value": "3,430,226"
+    },
+    {
+        "Time Period": "1988M12",
+        "Data Value": "3,459,729"
+    },
+    {
+        "Time Period": "1989M01",
+        "Data Value": "3,483,745"
+    },
+    {
+        "Time Period": "1989M02",
+        "Data Value": "3,488,011"
+    },
+    {
+        "Time Period": "1989M03",
+        "Data Value": "3,498,760"
+    },
+    {
+        "Time Period": "1989M04",
+        "Data Value": "3,542,964"
+    },
+    {
+        "Time Period": "1989M05",
+        "Data Value": "3,551,782"
+    },
+    {
+        "Time Period": "1989M06",
+        "Data Value": "3,566,555"
+    },
+    {
+        "Time Period": "1989M07",
+        "Data Value": "3,585,694"
+    },
+    {
+        "Time Period": "1989M08",
+        "Data Value": "3,620,641"
+    },
+    {
+        "Time Period": "1989M09",
+        "Data Value": "3,621,864"
+    },
+    {
+        "Time Period": "1989M10",
+        "Data Value": "3,633,599"
+    },
+    {
+        "Time Period": "1989M11",
+        "Data Value": "3,643,294"
+    },
+    {
+        "Time Period": "1989M12",
+        "Data Value": "3,684,184"
+    },
+    {
+        "Time Period": "1990M01",
+        "Data Value": "3,730,696"
+    },
+    {
+        "Time Period": "1990M02",
+        "Data Value": "3,728,233"
+    },
+    {
+        "Time Period": "1990M03",
+        "Data Value": "3,754,915"
+    },
+    {
+        "Time Period": "1990M04",
+        "Data Value": "3,769,991"
+    },
+    {
+        "Time Period": "1990M05",
+        "Data Value": "3,775,774"
+    },
+    {
+        "Time Period": "1990M06",
+        "Data Value": "3,804,496"
+    },
+    {
+        "Time Period": "1990M07",
+        "Data Value": "3,821,712"
+    },
+    {
+        "Time Period": "1990M08",
+        "Data Value": "3,848,288"
+    },
+    {
+        "Time Period": "1990M09",
+        "Data Value": "3,870,100"
+    },
+    {
+        "Time Period": "1990M10",
+        "Data Value": "3,870,551"
+    },
+    {
+        "Time Period": "1990M11",
+        "Data Value": "3,871,877"
+    },
+    {
+        "Time Period": "1990M12",
+        "Data Value": "3,861,300"
+    },
+    {
+        "Time Period": "1991M01",
+        "Data Value": "3,840,994"
+    },
+    {
+        "Time Period": "1991M02",
+        "Data Value": "3,866,693"
+    },
+    {
+        "Time Period": "1991M03",
+        "Data Value": "3,912,999"
+    },
+    {
+        "Time Period": "1991M04",
+        "Data Value": "3,907,079"
+    },
+    {
+        "Time Period": "1991M05",
+        "Data Value": "3,933,221"
+    },
+    {
+        "Time Period": "1991M06",
+        "Data Value": "3,940,495"
+    },
+    {
+        "Time Period": "1991M07",
+        "Data Value": "3,965,995"
+    },
+    {
+        "Time Period": "1991M08",
+        "Data Value": "3,969,105"
+    },
+    {
+        "Time Period": "1991M09",
+        "Data Value": "3,984,708"
+    },
+    {
+        "Time Period": "1991M10",
+        "Data Value": "3,976,045"
+    },
+    {
+        "Time Period": "1991M11",
+        "Data Value": "4,003,572"
+    },
+    {
+        "Time Period": "1991M12",
+        "Data Value": "4,020,479"
+    },
+    {
+        "Time Period": "1992M01",
+        "Data Value": "4,084,653"
+    },
+    {
+        "Time Period": "1992M02",
+        "Data Value": "4,099,539"
+    },
+    {
+        "Time Period": "1992M03",
+        "Data Value": "4,117,009"
+    },
+    {
+        "Time Period": "1992M04",
+        "Data Value": "4,131,544"
+    },
+    {
+        "Time Period": "1992M05",
+        "Data Value": "4,158,382"
+    },
+    {
+        "Time Period": "1992M06",
+        "Data Value": "4,177,056"
+    },
+    {
+        "Time Period": "1992M07",
+        "Data Value": "4,204,795"
+    },
+    {
+        "Time Period": "1992M08",
+        "Data Value": "4,220,850"
+    },
+    {
+        "Time Period": "1992M09",
+        "Data Value": "4,255,267"
+    },
+    {
+        "Time Period": "1992M10",
+        "Data Value": "4,284,729"
+    },
+    {
+        "Time Period": "1992M11",
+        "Data Value": "4,300,488"
+    },
+    {
+        "Time Period": "1992M12",
+        "Data Value": "4,336,398"
+    },
+    {
+        "Time Period": "1993M01",
+        "Data Value": "4,340,707"
+    },
+    {
+        "Time Period": "1993M02",
+        "Data Value": "4,355,340"
+    },
+    {
+        "Time Period": "1993M03",
+        "Data Value": "4,352,498"
+    },
+    {
+        "Time Period": "1993M04",
+        "Data Value": "4,393,413"
+    },
+    {
+        "Time Period": "1993M05",
+        "Data Value": "4,422,366"
+    },
+    {
+        "Time Period": "1993M06",
+        "Data Value": "4,439,965"
+    },
+    {
+        "Time Period": "1993M07",
+        "Data Value": "4,468,940"
+    },
+    {
+        "Time Period": "1993M08",
+        "Data Value": "4,481,096"
+    },
+    {
+        "Time Period": "1993M09",
+        "Data Value": "4,511,530"
+    },
+    {
+        "Time Period": "1993M10",
+        "Data Value": "4,532,758"
+    },
+    {
+        "Time Period": "1993M11",
+        "Data Value": "4,554,053"
+    },
+    {
+        "Time Period": "1993M12",
+        "Data Value": "4,571,141"
+    },
+    {
+        "Time Period": "1994M01",
+        "Data Value": "4,585,136"
+    },
+    {
+        "Time Period": "1994M02",
+        "Data Value": "4,632,580"
+    },
+    {
+        "Time Period": "1994M03",
+        "Data Value": "4,645,953"
+    },
+    {
+        "Time Period": "1994M04",
+        "Data Value": "4,671,080"
+    },
+    {
+        "Time Period": "1994M05",
+        "Data Value": "4,669,499"
+    },
+    {
+        "Time Period": "1994M06",
+        "Data Value": "4,708,909"
+    },
+    {
+        "Time Period": "1994M07",
+        "Data Value": "4,720,620"
+    },
+    {
+        "Time Period": "1994M08",
+        "Data Value": "4,762,623"
+    },
+    {
+        "Time Period": "1994M09",
+        "Data Value": "4,775,041"
+    },
+    {
+        "Time Period": "1994M10",
+        "Data Value": "4,812,888"
+    },
+    {
+        "Time Period": "1994M11",
+        "Data Value": "4,825,640"
+    },
+    {
+        "Time Period": "1994M12",
+        "Data Value": "4,841,610"
+    },
+    {
+        "Time Period": "1995M01",
+        "Data Value": "4,851,170"
+    },
+    {
+        "Time Period": "1995M02",
+        "Data Value": "4,850,763"
+    },
+    {
+        "Time Period": "1995M03",
+        "Data Value": "4,885,374"
+    },
+    {
+        "Time Period": "1995M04",
+        "Data Value": "4,890,197"
+    },
+    {
+        "Time Period": "1995M05",
+        "Data Value": "4,933,127"
+    },
+    {
+        "Time Period": "1995M06",
+        "Data Value": "4,977,503"
+    },
+    {
+        "Time Period": "1995M07",
+        "Data Value": "4,970,175"
+    },
+    {
+        "Time Period": "1995M08",
+        "Data Value": "5,005,318"
+    },
+    {
+        "Time Period": "1995M09",
+        "Data Value": "5,020,492"
+    },
+    {
+        "Time Period": "1995M10",
+        "Data Value": "5,013,903"
+    },
+    {
+        "Time Period": "1995M11",
+        "Data Value": "5,055,565"
+    },
+    {
+        "Time Period": "1995M12",
+        "Data Value": "5,097,498"
+    },
+    {
+        "Time Period": "1996M01",
+        "Data Value": "5,085,738"
+    },
+    {
+        "Time Period": "1996M02",
+        "Data Value": "5,132,843"
+    },
+    {
+        "Time Period": "1996M03",
+        "Data Value": "5,173,265"
+    },
+    {
+        "Time Period": "1996M04",
+        "Data Value": "5,207,961"
+    },
+    {
+        "Time Period": "1996M05",
+        "Data Value": "5,223,759"
+    },
+    {
+        "Time Period": "1996M06",
+        "Data Value": "5,229,777"
+    },
+    {
+        "Time Period": "1996M07",
+        "Data Value": "5,251,905"
+    },
+    {
+        "Time Period": "1996M08",
+        "Data Value": "5,275,019"
+    },
+    {
+        "Time Period": "1996M09",
+        "Data Value": "5,296,591"
+    },
+    {
+        "Time Period": "1996M10",
+        "Data Value": "5,328,454"
+    },
+    {
+        "Time Period": "1996M11",
+        "Data Value": "5,351,191"
+    },
+    {
+        "Time Period": "1996M12",
+        "Data Value": "5,378,645"
+    },
+    {
+        "Time Period": "1997M01",
+        "Data Value": "5,411,132"
+    },
+    {
+        "Time Period": "1997M02",
+        "Data Value": "5,433,958"
+    },
+    {
+        "Time Period": "1997M03",
+        "Data Value": "5,454,224"
+    },
+    {
+        "Time Period": "1997M04",
+        "Data Value": "5,459,332"
+    },
+    {
+        "Time Period": "1997M05",
+        "Data Value": "5,460,234"
+    },
+    {
+        "Time Period": "1997M06",
+        "Data Value": "5,494,236"
+    },
+    {
+        "Time Period": "1997M07",
+        "Data Value": "5,548,827"
+    },
+    {
+        "Time Period": "1997M08",
+        "Data Value": "5,587,042"
+    },
+    {
+        "Time Period": "1997M09",
+        "Data Value": "5,601,667"
+    },
+    {
+        "Time Period": "1997M10",
+        "Data Value": "5,637,666"
+    },
+    {
+        "Time Period": "1997M11",
+        "Data Value": "5,661,056"
+    },
+    {
+        "Time Period": "1997M12",
+        "Data Value": "5,692,107"
+    },
+    {
+        "Time Period": "1998M01",
+        "Data Value": "5,689,906"
+    },
+    {
+        "Time Period": "1998M02",
+        "Data Value": "5,723,833"
+    },
+    {
+        "Time Period": "1998M03",
+        "Data Value": "5,750,287"
+    },
+    {
+        "Time Period": "1998M04",
+        "Data Value": "5,788,053"
+    },
+    {
+        "Time Period": "1998M05",
+        "Data Value": "5,837,943"
+    },
+    {
+        "Time Period": "1998M06",
+        "Data Value": "5,871,702"
+    },
+    {
+        "Time Period": "1998M07",
+        "Data Value": "5,889,962"
+    },
+    {
+        "Time Period": "1998M08",
+        "Data Value": "5,924,994"
+    },
+    {
+        "Time Period": "1998M09",
+        "Data Value": "5,965,584"
+    },
+    {
+        "Time Period": "1998M10",
+        "Data Value": "5,998,823"
+    },
+    {
+        "Time Period": "1998M11",
+        "Data Value": "6,015,365"
+    },
+    {
+        "Time Period": "1998M12",
+        "Data Value": "6,070,526"
+    },
+    {
+        "Time Period": "1999M01",
+        "Data Value": "6,073,864"
+    },
+    {
+        "Time Period": "1999M02",
+        "Data Value": "6,099,229"
+    },
+    {
+        "Time Period": "1999M03",
+        "Data Value": "6,133,027"
+    },
+    {
+        "Time Period": "1999M04",
+        "Data Value": "6,199,523"
+    },
+    {
+        "Time Period": "1999M05",
+        "Data Value": "6,232,102"
+    },
+    {
+        "Time Period": "1999M06",
+        "Data Value": "6,260,300"
+    },
+    {
+        "Time Period": "1999M07",
+        "Data Value": "6,287,552"
+    },
+    {
+        "Time Period": "1999M08",
+        "Data Value": "6,331,887"
+    },
+    {
+        "Time Period": "1999M09",
+        "Data Value": "6,386,490"
+    },
+    {
+        "Time Period": "1999M10",
+        "Data Value": "6,411,379"
+    },
+    {
+        "Time Period": "1999M11",
+        "Data Value": "6,448,690"
+    },
+    {
+        "Time Period": "1999M12",
+        "Data Value": "6,541,049"
+    },
+    {
+        "Time Period": "2000M01",
+        "Data Value": "6,542,870"
+    },
+    {
+        "Time Period": "2000M02",
+        "Data Value": "6,625,259"
+    },
+    {
+        "Time Period": "2000M03",
+        "Data Value": "6,686,521"
+    },
+    {
+        "Time Period": "2000M04",
+        "Data Value": "6,679,067"
+    },
+    {
+        "Time Period": "2000M05",
+        "Data Value": "6,709,732"
+    },
+    {
+        "Time Period": "2000M06",
+        "Data Value": "6,746,933"
+    },
+    {
+        "Time Period": "2000M07",
+        "Data Value": "6,768,501"
+    },
+    {
+        "Time Period": "2000M08",
+        "Data Value": "6,802,846"
+    },
+    {
+        "Time Period": "2000M09",
+        "Data Value": "6,888,604"
+    },
+    {
+        "Time Period": "2000M10",
+        "Data Value": "6,893,798"
+    },
+    {
+        "Time Period": "2000M11",
+        "Data Value": "6,909,824"
+    },
+    {
+        "Time Period": "2000M12",
+        "Data Value": "6,952,196"
+    },
+    {
+        "Time Period": "2001M01",
+        "Data Value": "6,987,401"
+    },
+    {
+        "Time Period": "2001M02",
+        "Data Value": "7,001,834"
+    },
+    {
+        "Time Period": "2001M03",
+        "Data Value": "6,996,658"
+    },
+    {
+        "Time Period": "2001M04",
+        "Data Value": "7,004,240"
+    },
+    {
+        "Time Period": "2001M05",
+        "Data Value": "7,052,781"
+    },
+    {
+        "Time Period": "2001M06",
+        "Data Value": "7,069,728"
+    },
+    {
+        "Time Period": "2001M07",
+        "Data Value": "7,082,297"
+    },
+    {
+        "Time Period": "2001M08",
+        "Data Value": "7,121,688"
+    },
+    {
+        "Time Period": "2001M09",
+        "Data Value": "7,007,024"
+    },
+    {
+        "Time Period": "2001M10",
+        "Data Value": "7,212,903"
+    },
+    {
+        "Time Period": "2001M11",
+        "Data Value": "7,182,323"
+    },
+    {
+        "Time Period": "2001M12",
+        "Data Value": "7,166,733"
+    },
+    {
+        "Time Period": "2002M01",
+        "Data Value": "7,184,624"
+    },
+    {
+        "Time Period": "2002M02",
+        "Data Value": "7,225,161"
+    },
+    {
+        "Time Period": "2002M03",
+        "Data Value": "7,243,358"
+    },
+    {
+        "Time Period": "2002M04",
+        "Data Value": "7,312,466"
+    },
+    {
+        "Time Period": "2002M05",
+        "Data Value": "7,288,903"
+    },
+    {
+        "Time Period": "2002M06",
+        "Data Value": "7,322,496"
+    },
+    {
+        "Time Period": "2002M07",
+        "Data Value": "7,387,293"
+    },
+    {
+        "Time Period": "2002M08",
+        "Data Value": "7,412,576"
+    },
+    {
+        "Time Period": "2002M09",
+        "Data Value": "7,391,538"
+    },
+    {
+        "Time Period": "2002M10",
+        "Data Value": "7,435,169"
+    },
+    {
+        "Time Period": "2002M11",
+        "Data Value": "7,463,805"
+    },
+    {
+        "Time Period": "2002M12",
+        "Data Value": "7,519,901"
+    },
+    {
+        "Time Period": "2003M01",
+        "Data Value": "7,541,283"
+    },
+    {
+        "Time Period": "2003M02",
+        "Data Value": "7,548,649"
+    },
+    {
+        "Time Period": "2003M03",
+        "Data Value": "7,611,549"
+    },
+    {
+        "Time Period": "2003M04",
+        "Data Value": "7,634,487"
+    },
+    {
+        "Time Period": "2003M05",
+        "Data Value": "7,650,333"
+    },
+    {
+        "Time Period": "2003M06",
+        "Data Value": "7,699,554"
+    },
+    {
+        "Time Period": "2003M07",
+        "Data Value": "7,757,004"
+    },
+    {
+        "Time Period": "2003M08",
+        "Data Value": "7,852,102"
+    },
+    {
+        "Time Period": "2003M09",
+        "Data Value": "7,853,674"
+    },
+    {
+        "Time Period": "2003M10",
+        "Data Value": "7,867,359"
+    },
+    {
+        "Time Period": "2003M11",
+        "Data Value": "7,922,591"
+    },
+    {
+        "Time Period": "2003M12",
+        "Data Value": "7,950,409"
+    },
+    {
+        "Time Period": "2004M01",
+        "Data Value": "8,007,115"
+    },
+    {
+        "Time Period": "2004M02",
+        "Data Value": "8,040,409"
+    },
+    {
+        "Time Period": "2004M03",
+        "Data Value": "8,098,806"
+    },
+    {
+        "Time Period": "2004M04",
+        "Data Value": "8,107,245"
+    },
+    {
+        "Time Period": "2004M05",
+        "Data Value": "8,176,470"
+    },
+    {
+        "Time Period": "2004M06",
+        "Data Value": "8,157,607"
+    },
+    {
+        "Time Period": "2004M07",
+        "Data Value": "8,236,938"
+    },
+    {
+        "Time Period": "2004M08",
+        "Data Value": "8,271,607"
+    },
+    {
+        "Time Period": "2004M09",
+        "Data Value": "8,341,461"
+    },
+    {
+        "Time Period": "2004M10",
+        "Data Value": "8,397,056"
+    },
+    {
+        "Time Period": "2004M11",
+        "Data Value": "8,444,456"
+    },
+    {
+        "Time Period": "2004M12",
+        "Data Value": "8,504,351"
+    },
+    {
+        "Time Period": "2005M01",
+        "Data Value": "8,497,691"
+    },
+    {
+        "Time Period": "2005M02",
+        "Data Value": "8,559,081"
+    },
+    {
+        "Time Period": "2005M03",
+        "Data Value": "8,598,432"
+    },
+    {
+        "Time Period": "2005M04",
+        "Data Value": "8,678,413"
+    },
+    {
+        "Time Period": "2005M05",
+        "Data Value": "8,671,645"
+    },
+    {
+        "Time Period": "2005M06",
+        "Data Value": "8,753,379"
+    },
+    {
+        "Time Period": "2005M07",
+        "Data Value": "8,853,777"
+    },
+    {
+        "Time Period": "2005M08",
+        "Data Value": "8,850,108"
+    },
+    {
+        "Time Period": "2005M09",
+        "Data Value": "8,900,382"
+    },
+    {
+        "Time Period": "2005M10",
+        "Data Value": "8,938,497"
+    },
+    {
+        "Time Period": "2005M11",
+        "Data Value": "8,946,242"
+    },
+    {
+        "Time Period": "2005M12",
+        "Data Value": "8,981,147"
+    },
+    {
+        "Time Period": "2006M01",
+        "Data Value": "9,071,617"
+    },
+    {
+        "Time Period": "2006M02",
+        "Data Value": "9,095,989"
+    },
+    {
+        "Time Period": "2006M03",
+        "Data Value": "9,132,854"
+    },
+    {
+        "Time Period": "2006M04",
+        "Data Value": "9,191,586"
+    },
+    {
+        "Time Period": "2006M05",
+        "Data Value": "9,231,759"
+    },
+    {
+        "Time Period": "2006M06",
+        "Data Value": "9,259,602"
+    },
+    {
+        "Time Period": "2006M07",
+        "Data Value": "9,343,801"
+    },
+    {
+        "Time Period": "2006M08",
+        "Data Value": "9,342,154"
+    },
+    {
+        "Time Period": "2006M09",
+        "Data Value": "9,375,362"
+    },
+    {
+        "Time Period": "2006M10",
+        "Data Value": "9,393,623"
+    },
+    {
+        "Time Period": "2006M11",
+        "Data Value": "9,400,206"
+    },
+    {
+        "Time Period": "2006M12",
+        "Data Value": "9,488,275"
+    },
+    {
+        "Time Period": "2007M01",
+        "Data Value": "9,538,721"
+    },
+    {
+        "Time Period": "2007M02",
+        "Data Value": "9,565,960"
+    },
+    {
+        "Time Period": "2007M03",
+        "Data Value": "9,611,732"
+    },
+    {
+        "Time Period": "2007M04",
+        "Data Value": "9,643,571"
+    },
+    {
+        "Time Period": "2007M05",
+        "Data Value": "9,685,806"
+    },
+    {
+        "Time Period": "2007M06",
+        "Data Value": "9,706,762"
+    },
+    {
+        "Time Period": "2007M07",
+        "Data Value": "9,751,141"
+    },
+    {
+        "Time Period": "2007M08",
+        "Data Value": "9,798,937"
+    },
+    {
+        "Time Period": "2007M09",
+        "Data Value": "9,845,072"
+    },
+    {
+        "Time Period": "2007M10",
+        "Data Value": "9,882,702"
+    },
+    {
+        "Time Period": "2007M11",
+        "Data Value": "9,955,924"
+    },
+    {
+        "Time Period": "2007M12",
+        "Data Value": "9,972,793"
+    },
+    {
+        "Time Period": "2008M01",
+        "Data Value": "9,996,400"
+    },
+    {
+        "Time Period": "2008M02",
+        "Data Value": "9,981,672"
+    },
+    {
+        "Time Period": "2008M03",
+        "Data Value": "10,035,263"
+    },
+    {
+        "Time Period": "2008M04",
+        "Data Value": "10,070,270"
+    },
+    {
+        "Time Period": "2008M05",
+        "Data Value": "10,132,271"
+    },
+    {
+        "Time Period": "2008M06",
+        "Data Value": "10,187,065"
+    },
+    {
+        "Time Period": "2008M07",
+        "Data Value": "10,185,092"
+    },
+    {
+        "Time Period": "2008M08",
+        "Data Value": "10,175,729"
+    },
+    {
+        "Time Period": "2008M09",
+        "Data Value": "10,116,413"
+    },
+    {
+        "Time Period": "2008M10",
+        "Data Value": "10,034,123"
+    },
+    {
+        "Time Period": "2008M11",
+        "Data Value": "9,885,231"
+    },
+    {
+        "Time Period": "2008M12",
+        "Data Value": "9,801,472"
+    },
+    {
+        "Time Period": "2009M01",
+        "Data Value": "9,847,249"
+    },
+    {
+        "Time Period": "2009M02",
+        "Data Value": "9,824,478"
+    },
+    {
+        "Time Period": "2009M03",
+        "Data Value": "9,773,181"
+    },
+    {
+        "Time Period": "2009M04",
+        "Data Value": "9,772,523"
+    },
+    {
+        "Time Period": "2009M05",
+        "Data Value": "9,791,553"
+    },
+    {
+        "Time Period": "2009M06",
+        "Data Value": "9,852,431"
+    },
+    {
+        "Time Period": "2009M07",
+        "Data Value": "9,886,264"
+    },
+    {
+        "Time Period": "2009M08",
+        "Data Value": "10,004,129"
+    },
+    {
+        "Time Period": "2009M09",
+        "Data Value": "9,927,825"
+    },
+    {
+        "Time Period": "2009M10",
+        "Data Value": "9,976,733"
+    },
+    {
+        "Time Period": "2009M11",
+        "Data Value": "9,985,676"
+    },
+    {
+        "Time Period": "2009M12",
+        "Data Value": "10,052,579"
+    },
+    {
+        "Time Period": "2010M01",
+        "Data Value": "10,056,058"
+    },
+    {
+        "Time Period": "2010M02",
+        "Data Value": "10,093,426"
+    },
+    {
+        "Time Period": "2010M03",
+        "Data Value": "10,155,982"
+    },
+    {
+        "Time Period": "2010M04",
+        "Data Value": "10,182,287"
+    },
+    {
+        "Time Period": "2010M05",
+        "Data Value": "10,210,816"
+    },
+    {
+        "Time Period": "2010M06",
+        "Data Value": "10,231,332"
+    },
+    {
+        "Time Period": "2010M07",
+        "Data Value": "10,268,126"
+    },
+    {
+        "Time Period": "2010M08",
+        "Data Value": "10,307,070"
+    },
+    {
+        "Time Period": "2010M09",
+        "Data Value": "10,327,066"
+    },
+    {
+        "Time Period": "2010M10",
+        "Data Value": "10,386,366"
+    },
+    {
+        "Time Period": "2010M11",
+        "Data Value": "10,433,573"
+    },
+    {
+        "Time Period": "2010M12",
+        "Data Value": "10,470,972"
+    },
+    {
+        "Time Period": "2011M01",
+        "Data Value": "10,514,256"
+    },
+    {
+        "Time Period": "2011M02",
+        "Data Value": "10,540,610"
+    },
+    {
+        "Time Period": "2011M03",
+        "Data Value": "10,619,719"
+    },
+    {
+        "Time Period": "2011M04",
+        "Data Value": "10,652,081"
+    },
+    {
+        "Time Period": "2011M05",
+        "Data Value": "10,672,199"
+    },
+    {
+        "Time Period": "2011M06",
+        "Data Value": "10,694,775"
+    },
+    {
+        "Time Period": "2011M07",
+        "Data Value": "10,731,621"
+    },
+    {
+        "Time Period": "2011M08",
+        "Data Value": "10,750,276"
+    },
+    {
+        "Time Period": "2011M09",
+        "Data Value": "10,783,189"
+    },
+    {
+        "Time Period": "2011M10",
+        "Data Value": "10,802,881"
+    },
+    {
+        "Time Period": "2011M11",
+        "Data Value": "10,806,828"
+    },
+    {
+        "Time Period": "2011M12",
+        "Data Value": "10,817,849"
+    },
+    {
+        "Time Period": "2012M01",
+        "Data Value": "10,896,780"
+    },
+    {
+        "Time Period": "2012M02",
+        "Data Value": "10,987,216"
+    },
+    {
+        "Time Period": "2012M03",
+        "Data Value": "10,993,908"
+    },
+    {
+        "Time Period": "2012M04",
+        "Data Value": "11,018,538"
+    },
+    {
+        "Time Period": "2012M05",
+        "Data Value": "11,006,796"
+    },
+    {
+        "Time Period": "2012M06",
+        "Data Value": "10,989,830"
+    },
+    {
+        "Time Period": "2012M07",
+        "Data Value": "11,016,846"
+    },
+    {
+        "Time Period": "2012M08",
+        "Data Value": "11,056,012"
+    },
+    {
+        "Time Period": "2012M09",
+        "Data Value": "11,105,323"
+    },
+    {
+        "Time Period": "2012M10",
+        "Data Value": "11,137,427"
+    },
+    {
+        "Time Period": "2012M11",
+        "Data Value": "11,178,433"
+    },
+    {
+        "Time Period": "2012M12",
+        "Data Value": "11,181,248"
+    },
+    {
+        "Time Period": "2013M01",
+        "Data Value": "11,252,374"
+    },
+    {
+        "Time Period": "2013M02",
+        "Data Value": "11,290,497"
+    },
+    {
+        "Time Period": "2013M03",
+        "Data Value": "11,290,121"
+    },
+    {
+        "Time Period": "2013M04",
+        "Data Value": "11,281,071"
+    },
+    {
+        "Time Period": "2013M05",
+        "Data Value": "11,321,560"
+    },
+    {
+        "Time Period": "2013M06",
+        "Data Value": "11,344,413"
+    },
+    {
+        "Time Period": "2013M07",
+        "Data Value": "11,372,550"
+    },
+    {
+        "Time Period": "2013M08",
+        "Data Value": "11,406,597"
+    },
+    {
+        "Time Period": "2013M09",
+        "Data Value": "11,445,929"
+    },
+    {
+        "Time Period": "2013M10",
+        "Data Value": "11,498,041"
+    },
+    {
+        "Time Period": "2013M11",
+        "Data Value": "11,562,480"
+    },
+    {
+        "Time Period": "2013M12",
+        "Data Value": "11,593,168"
+    },
+    {
+        "Time Period": "2014M01",
+        "Data Value": "11,578,798"
+    },
+    {
+        "Time Period": "2014M02",
+        "Data Value": "11,636,889"
+    },
+    {
+        "Time Period": "2014M03",
+        "Data Value": "11,722,315"
+    },
+    {
+        "Time Period": "2014M04",
+        "Data Value": "11,762,305"
+    },
+    {
+        "Time Period": "2014M05",
+        "Data Value": "11,807,312"
+    },
+    {
+        "Time Period": "2014M06",
+        "Data Value": "11,861,735"
+    },
+    {
+        "Time Period": "2014M07",
+        "Data Value": "11,904,353"
+    },
+    {
+        "Time Period": "2014M08",
+        "Data Value": "11,983,661"
+    },
+    {
+        "Time Period": "2014M09",
+        "Data Value": "11,991,354"
+    },
+    {
+        "Time Period": "2014M10",
+        "Data Value": "12,064,692"
+    },
+    {
+        "Time Period": "2014M11",
+        "Data Value": "12,083,888"
+    },
+    {
+        "Time Period": "2014M12",
+        "Data Value": "12,096,102"
+    },
+    {
+        "Time Period": "2015M01",
+        "Data Value": "12,066,664"
+    },
+    {
+        "Time Period": "2015M02",
+        "Data Value": "12,116,561"
+    },
+    {
+        "Time Period": "2015M03",
+        "Data Value": "12,176,065"
+    },
+    {
+        "Time Period": "2015M04",
+        "Data Value": "12,209,081"
+    },
+    {
+        "Time Period": "2015M05",
+        "Data Value": "12,275,406"
+    },
+    {
+        "Time Period": "2015M06",
+        "Data Value": "12,307,934"
+    },
+    {
+        "Time Period": "2015M07",
+        "Data Value": "12,364,885"
+    },
+    {
+        "Time Period": "2015M08",
+        "Data Value": "12,396,189"
+    },
+    {
+        "Time Period": "2015M09",
+        "Data Value": "12,386,409"
+    },
+    {
+        "Time Period": "2015M10",
+        "Data Value": "12,394,909"
+    },
+    {
+        "Time Period": "2015M11",
+        "Data Value": "12,423,153"
+    },
+    {
+        "Time Period": "2015M12",
+        "Data Value": "12,451,998"
+    },
+    {
+        "Time Period": "2016M01",
+        "Data Value": "12,477,959"
+    },
+    {
+        "Time Period": "2016M02",
+        "Data Value": "12,554,520"
+    },
+    {
+        "Time Period": "2016M03",
+        "Data Value": "12,536,989"
+    },
+    {
+        "Time Period": "2016M04",
+        "Data Value": "12,611,453"
+    },
+    {
+        "Time Period": "2016M05",
+        "Data Value": "12,652,685"
+    },
+    {
+        "Time Period": "2016M06",
+        "Data Value": "12,731,235"
+    },
+    {
+        "Time Period": "2016M07",
+        "Data Value": "12,756,654"
+    },
+    {
+        "Time Period": "2016M08",
+        "Data Value": "12,788,079"
+    },
+    {
+        "Time Period": "2016M09",
+        "Data Value": "12,846,646"
+    },
+    {
+        "Time Period": "2016M10",
+        "Data Value": "12,867,030"
+    },
+    {
+        "Time Period": "2016M11",
+        "Data Value": "12,893,010"
+    },
+    {
+        "Time Period": "2016M12",
+        "Data Value": "13,005,926"
+    },
+    {
+        "Time Period": "2017M01",
+        "Data Value": "13,063,650"
+    },
+    {
+        "Time Period": "2017M02",
+        "Data Value": "13,088,383"
+    },
+    {
+        "Time Period": "2017M03",
+        "Data Value": "13,139,886"
+    },
+    {
+        "Time Period": "2017M04",
+        "Data Value": "13,169,177"
+    },
+    {
+        "Time Period": "2017M05",
+        "Data Value": "13,171,862"
+    },
+    {
+        "Time Period": "2017M06",
+        "Data Value": "13,225,151"
+    },
+    {
+        "Time Period": "2017M07",
+        "Data Value": "13,263,299"
+    },
+    {
+        "Time Period": "2017M08",
+        "Data Value": "13,294,640"
+    },
+    {
+        "Time Period": "2017M09",
+        "Data Value": "13,417,255"
+    },
+    {
+        "Time Period": "2017M10",
+        "Data Value": "13,447,486"
+    },
+    {
+        "Time Period": "2017M11",
+        "Data Value": "13,540,626"
+    },
+    {
+        "Time Period": "2017M12",
+        "Data Value": "13,666,091"
+    },
+    {
+        "Time Period": "2018M01",
+        "Data Value": "13,703,270"
+    },
+    {
+        "Time Period": "2018M02",
+        "Data Value": "13,738,737"
+    },
+    {
+        "Time Period": "2018M03",
+        "Data Value": "13,793,215"
+    },
+    {
+        "Time Period": "2018M04",
+        "Data Value": "13,838,421"
+    },
+    {
+        "Time Period": "2018M05",
+        "Data Value": "13,905,023"
+    },
+    {
+        "Time Period": "2018M06",
+        "Data Value": "13,930,438"
+    },
+    {
+        "Time Period": "2018M07",
+        "Data Value": "13,974,828"
+    },
+    {
+        "Time Period": "2018M08",
+        "Data Value": "14,013,992"
+    },
+    {
+        "Time Period": "2018M09",
+        "Data Value": "14,017,778"
+    },
+    {
+        "Time Period": "2018M10",
+        "Data Value": "14,083,061"
+    },
+    {
+        "Time Period": "2018M11",
+        "Data Value": "14,162,941"
+    },
+    {
+        "Time Period": "2018M12",
+        "Data Value": "14,051,596"
+    },
+    {
+        "Time Period": "2019M01",
+        "Data Value": "14,084,585"
+    },
+    {
+        "Time Period": "2019M02",
+        "Data Value": "14,117,418"
+    },
+    {
+        "Time Period": "2019M03",
+        "Data Value": "14,248,569"
+    },
+    {
+        "Time Period": "2019M04",
+        "Data Value": "14,289,984"
+    },
+    {
+        "Time Period": "2019M05",
+        "Data Value": "14,353,322"
+    },
+    {
+        "Time Period": "2019M06",
+        "Data Value": "14,408,679"
+    },
+    {
+        "Time Period": "2019M07",
+        "Data Value": "14,495,969"
+    },
+    {
+        "Time Period": "2019M08",
+        "Data Value": "14,558,244"
+    },
+    {
+        "Time Period": "2019M09",
+        "Data Value": "14,590,632"
+    },
+    {
+        "Time Period": "2019M10",
+        "Data Value": "14,617,397"
+    },
+    {
+        "Time Period": "2019M11",
+        "Data Value": "14,710,955"
+    },
+    {
+        "Time Period": "2019M12",
+        "Data Value": "14,774,762"
+    },
+    {
+        "Time Period": "2020M01",
+        "Data Value": "14,868,334"
+    },
+    {
+        "Time Period": "2020M02",
+        "Data Value": "14,828,146"
+    },
+    {
+        "Time Period": "2020M03",
+        "Data Value": "13,812,814"
+    },
+    {
+        "Time Period": "2020M04",
+        "Data Value": "12,249,167"
+    },
+    {
+        "Time Period": "2020M05",
+        "Data Value": "13,281,510"
+    },
+    {
+        "Time Period": "2020M06",
+        "Data Value": "14,049,214"
+    },
+    {
+        "Time Period": "2020M07",
+        "Data Value": "14,307,240"
+    },
+    {
+        "Time Period": "2020M08",
+        "Data Value": "14,462,235"
+    },
+    {
+        "Time Period": "2020M09",
+        "Data Value": "14,668,142"
+    },
+    {
+        "Time Period": "2020M10",
+        "Data Value": "14,725,760"
+    },
+    {
+        "Time Period": "2020M11",
+        "Data Value": "14,701,645"
+    },
+    {
+        "Time Period": "2020M12",
+        "Data Value": "14,822,032"
+    },
+    {
+        "Time Period": "2021M01",
+        "Data Value": "15,073,011"
+    },
+    {
+        "Time Period": "2021M02",
+        "Data Value": "14,983,501"
+    },
+    {
+        "Time Period": "2021M03",
+        "Data Value": "15,709,722"
+    },
+    {
+        "Time Period": "2021M04",
+        "Data Value": "15,917,545"
+    },
+    {
+        "Time Period": "2021M05",
+        "Data Value": "15,973,499"
+    },
+    {
+        "Time Period": "2021M06",
+        "Data Value": "16,191,662"
+    },
+    {
+        "Time Period": "2021M07",
+        "Data Value": "16,239,708"
+    },
+    {
+        "Time Period": "2021M08",
+        "Data Value": "16,412,912"
+    },
+    {
+        "Time Period": "2021M09",
+        "Data Value": "16,489,569"
+    },
+    {
+        "Time Period": "2021M10",
+        "Data Value": "16,704,232"
+    },
+    {
+        "Time Period": "2021M11",
+        "Data Value": "16,849,832"
+    },
+    {
+        "Time Period": "2021M12",
+        "Data Value": "16,890,989"
+    },
+    {
+        "Time Period": "2022M01",
+        "Data Value": "16,993,756"
+    },
+    {
+        "Time Period": "2022M02",
+        "Data Value": "17,106,023"
+    },
+    {
+        "Time Period": "2022M03",
+        "Data Value": "17,347,210"
+    },
+    {
+        "Time Period": "2022M04",
+        "Data Value": "17,490,045"
+    },
+    {
+        "Time Period": "2022M05",
+        "Data Value": "17,574,491"
+    },
+    {
+        "Time Period": "2022M06",
+        "Data Value": "17,755,188"
+    },
+    {
+        "Time Period": "2022M07",
+        "Data Value": "17,770,089"
+    },
+    {
+        "Time Period": "2022M08",
+        "Data Value": "17,916,450"
+    },
+    {
+        "Time Period": "2022M09",
+        "Data Value": "17,992,828"
+    },
+    {
+        "Time Period": "2022M10",
+        "Data Value": "18,109,562"
+    },
+    {
+        "Time Period": "2022M11",
+        "Data Value": "18,108,024"
+    },
+    {
+        "Time Period": "2022M12",
+        "Data Value": "18,116,497"
+    },
+    {
+        "Time Period": "2023M01",
+        "Data Value": "18,449,085"
+    },
+    {
+        "Time Period": "2023M02",
+        "Data Value": "18,491,570"
+    },
+    {
+        "Time Period": "2023M03",
+        "Data Value": "18,520,420"
+    },
+    {
+        "Time Period": "2023M04",
+        "Data Value": "18,641,787"
+    },
+    {
+        "Time Period": "2023M05",
+        "Data Value": "18,664,600"
+    },
+    {
+        "Time Period": "2023M06",
+        "Data Value": "18,772,996"
+    },
+    {
+        "Time Period": "2023M07",
+        "Data Value": "18,884,215"
+    },
+    {
+        "Time Period": "2023M08",
+        "Data Value": "18,953,262"
+    },
+    {
+        "Time Period": "2023M09",
+        "Data Value": "19,048,067"
+    },
+    {
+        "Time Period": "2023M10",
+        "Data Value": "19,109,352"
+    },
+    {
+        "Time Period": "2023M11",
+        "Data Value": "19,178,922"
+    },
+    {
+        "Time Period": "2023M12",
+        "Data Value": "19,283,525"
+    },
+    {
+        "Time Period": "2024M01",
+        "Data Value": "19,303,276"
+    },
+    {
+        "Time Period": "2024M02",
+        "Data Value": "19,446,475"
+    },
+    {
+        "Time Period": "2024M03",
+        "Data Value": "19,581,752"
+    },
+    {
+        "Time Period": "2024M04",
+        "Data Value": "19,665,702"
+    },
+    {
+        "Time Period": "2024M05",
+        "Data Value": "19,758,028"
+    },
+    {
+        "Time Period": "2024M06",
+        "Data Value": "19,844,548"
+    },
+    {
+        "Time Period": "2024M07",
+        "Data Value": "19,949,519"
+    },
+    {
+        "Time Period": "2024M08",
+        "Data Value": "20,001,295"
+    },
+    {
+        "Time Period": "2024M09",
+        "Data Value": "20,147,639"
+    },
+    {
+        "Time Period": "2024M10",
+        "Data Value": "20,226,006"
+    },
+    {
+        "Time Period": "2024M11",
+        "Data Value": "20,313,595"
+    },
+    {
+        "Time Period": "2024M12",
+        "Data Value": "20,514,276"
+    },
+    {
+        "Time Period": "2025M01",
+        "Data Value": "20,462,229"
+    },
+    {
+        "Time Period": "2025M02",
+        "Data Value": "20,519,769"
+    },
+    {
+        "Time Period": "2025M03",
+        "Data Value": "20,682,955"
+    },
+    {
+        "Time Period": "2025M04",
+        "Data Value": "20,746,410"
+    },
+    {
+        "Time Period": "2025M05",
+        "Data Value": "20,755,004"
+    },
+    {
+        "Time Period": "2025M06",
+        "Data Value": "20,868,365"
+    },
+    {
+        "Time Period": "2025M07",
+        "Data Value": "21,007,264"
+    },
+    {
+        "Time Period": "2025M08",
+        "Data Value": "21,123,787"
+    },
+    {
+        "Time Period": "2025M09",
+        "Data Value": "21,202,446"
+    },
+    {
+        "Time Period": "2025M10",
+        "Data Value": "21,288,128"
+    },
+    {
+        "Time Period": "2025M11",
+        "Data Value": "21,355,995"
+    },
+    {
+        "Time Period": "2025M12",
+        "Data Value": "21,445,932"
+    },
+    {
+        "Time Period": "2026M01",
+        "Data Value": "21,525,465"
+    },
+    {
+        "Time Period": "2026M02",
+        "Data Value": "21,665,077"
+    },
+    {
+        "Time Period": "2026M03",
+        "Data Value": "21,860,518"
+    }
+]
