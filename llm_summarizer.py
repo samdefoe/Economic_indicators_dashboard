@@ -716,7 +716,7 @@ def _create_inflation_rate_snapshot(data : pd.DataFrame):
     return snapshot
 
 
-def _create_all_snapshots(data : dict):
+def _create_all_snapshots(data : dict, return_dict=False):
     snapshots = [
         _create_gdp_snapshot(data['gdp']),
         _create_unemployment_rate_snapshot(data['unemployment_rate']),
@@ -728,7 +728,9 @@ def _create_all_snapshots(data : dict):
         _create_retail_sales_snapshot(data['retail_sales']),
         _create_inflation_rate_snapshot(data['inflation_rate'])
     ]
-
+    if return_dict:
+        return snapshots
+    
     snapshot_text= json.dumps(snapshots, indent=2)
     return snapshot_text
 
