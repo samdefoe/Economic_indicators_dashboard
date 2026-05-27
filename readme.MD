@@ -6,7 +6,7 @@ The economic indicators dashboard provides a graphical summary of the U.S. econo
 - Interactive Plotly dashboard
 - Red/yellow/green economic health zones
 - GDP, unemployment, CPI, PPI, PCE, consumer sentiment, federal funds rate, retail sales, S&P 500, and inflation tracking
-- A healthbar of the current economy
+- A health bar of the current economy
 - AI-generated economic summary
 - Data retrieval from BEA, BLS, and FRED APIs
 
