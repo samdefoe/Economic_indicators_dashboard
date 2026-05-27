@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 import json
 import pandas as pd
 import visualize_data as vd
+from data_retrieval import convert_data_to_dfs
 
 
 def _snapshot_template(name : str, zones : dict, time_values : list, current_zone : str, y1_zone_count : dict, y1_max : float, y1_min : float, y5_zone_count : dict, y5_max : float, y5_min : float):
@@ -27,8 +28,8 @@ def _snapshot_template(name : str, zones : dict, time_values : list, current_zon
     return snapshot
 
 
-def _create_gdp_snapshot():
-    gdp_df = vd.gdp_data_parser()
+def _create_gdp_snapshot(data : pd.DataFrame):
+    gdp_df = data
     name = 'real_gdp'
     zones = {
     "red_low": "below 0%",
@@ -92,8 +93,8 @@ def _create_gdp_snapshot():
     return snapshot
 
 
-def _create_unemployment_rate_snapshot():
-    unemployment_df = vd.unemployment_rate_data_parser()
+def _create_unemployment_rate_snapshot(data : pd.DataFrame):
+    unemployment_df = data
     name = 'unemployment_rate'
     zones = {
         "yellow_low": "1% to 3%",
@@ -166,8 +167,8 @@ def _create_unemployment_rate_snapshot():
     return snapshot
 
 
-def _create_consumer_price_index_snapshot():
-    cpi_df = vd.cpi_data_parser()
+def _create_consumer_price_index_snapshot(data : pd.DataFrame):
+    cpi_df = data
     name = 'consumer_price_index'
     zones = {
         "red_low": "below 0%",
@@ -243,8 +244,8 @@ def _create_consumer_price_index_snapshot():
     return snapshot
 
 
-def _create_producer_price_index_snapshot():
-    ppi_df = vd.ppi_data_parser()
+def _create_producer_price_index_snapshot(data : pd.DataFrame):
+    ppi_df = data
     name = 'producer_price_index'
     zones = {
         "red_low": "below -0.3%",
@@ -324,8 +325,8 @@ def _create_producer_price_index_snapshot():
     return snapshot
 
 
-def _create_personal_consumption_expenditures_snapshot():
-    pce_df = vd.pce_data_parser()
+def _create_personal_consumption_expenditures_snapshot(data : pd.DataFrame):
+    pce_df = data
     name = 'personal_consumption_expenditures'
     zones = {
         "red_low": "below 0%",
@@ -405,8 +406,8 @@ def _create_personal_consumption_expenditures_snapshot():
     return snapshot
 
 
-def _create_consumer_sentiment_snapshot():
-    cs_df = vd.cs_data_parser()
+def _create_consumer_sentiment_snapshot(data : pd.DataFrame):
+    cs_df = data
     name = 'consumer_sentiment'
     zones = {
         "red_low": "below 65",
@@ -471,8 +472,8 @@ def _create_consumer_sentiment_snapshot():
     return snapshot
 
 
-def _create_fed_funds_snapshot():
-    fed_df = vd.fed_funds_rate_data_parser()
+def _create_fed_funds_snapshot(data : pd.DataFrame):
+    fed_df = data
     name = 'federal_funds_rate'
     zones = {
         "red_low": "below 0.5%",
@@ -552,8 +553,8 @@ def _create_fed_funds_snapshot():
     return snapshot
 
 
-def _create_retail_sales_snapshot():
-    rs_df = vd.retail_sales_data_parser()
+def _create_retail_sales_snapshot(data : pd.DataFrame):
+    rs_df = data
     name = 'retail_sales'
     zones = {
         "red_low": "below -0.5%",
@@ -634,8 +635,8 @@ def _create_retail_sales_snapshot():
     return snapshot
 
 
-def _create_inflation_rate_snapshot():
-    inflation_df = vd.inflation_rate_parser()
+def _create_inflation_rate_snapshot(data : pd.DataFrame):
+    inflation_df = data
     name = 'inflation_rate'
     zones = {
         "red_low": "below 0%",
@@ -715,26 +716,26 @@ def _create_inflation_rate_snapshot():
     return snapshot
 
 
-def create_all_snapshots():
+def _create_all_snapshots(data : dict):
     snapshots = [
-        _create_gdp_snapshot(),
-        _create_unemployment_rate_snapshot(),
-        _create_consumer_price_index_snapshot(), 
-        _create_producer_price_index_snapshot(), 
-        _create_personal_consumption_expenditures_snapshot(), 
-        _create_consumer_sentiment_snapshot(), 
-        _create_fed_funds_snapshot(), 
-        _create_retail_sales_snapshot(),
-        _create_inflation_rate_snapshot()
+        _create_gdp_snapshot(data['gdp']),
+        _create_unemployment_rate_snapshot(data['unemployment_rate']),
+        _create_consumer_price_index_snapshot(data['cpi']), 
+        _create_producer_price_index_snapshot(data['ppi']), 
+        _create_personal_consumption_expenditures_snapshot(data['pce']), 
+        _create_consumer_sentiment_snapshot(data['consumer_sentiment']), 
+        _create_fed_funds_snapshot(data['fed_funds_rate']), 
+        _create_retail_sales_snapshot(data['retail_sales']),
+        _create_inflation_rate_snapshot(data['inflation_rate'])
     ]
 
     snapshot_text= json.dumps(snapshots, indent=2)
     return snapshot_text
 
 
-def generate_economic_summary():
+def generate_economic_summary(data : dict):
 
-    snapshot_text = create_all_snapshots()
+    snapshot_text = _create_all_snapshots(data)
 
     load_dotenv()
 
@@ -766,8 +767,6 @@ def generate_economic_summary():
     ]
 
     response = llm.invoke(messages)
-    return response.content
+    with open('economic_data/llm_summary', 'w') as f:
+        f.write(response.content)
 
-
-if __name__ == '__main__':
-   print(generate_economic_summary())

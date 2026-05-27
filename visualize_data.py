@@ -1,135 +1,6 @@
-import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import pandas as pd
-import json
-
-def gdp_data_parser():
-    with open("economic_data/gdp_data.json", 'r') as f:
-        gdp_data = json.load(f)
-
-    gdp_df = pd.DataFrame(gdp_data)
-    gdp_df['GDP Trillions'] = gdp_df['Data Value'].str.replace(',', '').astype(float) / (1*10**6)
-    gdp_df["Date"] = pd.PeriodIndex(gdp_df["Time Period"], freq="Q").to_timestamp()
-    gdp_df["GDP Percent Change"] = gdp_df["GDP Trillions"].pct_change(periods=4) * 100
-    return gdp_df
-    
-
-def unemployment_rate_data_parser():
-    with open("economic_data/unemployment_rate_data.json", "r") as f:
-        unemployment_data = json.load(f)
-    unemployment_df = pd.DataFrame(unemployment_data)
-    unemployment_df["month"] = unemployment_df["period"].str.replace("M", "").astype(int)
-    unemployment_df["Date"] = pd.to_datetime({
-    "year": unemployment_df["year"].astype(int),
-    "month": unemployment_df["month"],
-    "day": 1
-    })
-    unemployment_df = unemployment_df[unemployment_df['value'] != "-"]
-    unemployment_df['value'] = unemployment_df['value'].astype(float)
-    return unemployment_df
-
-
-def cpi_data_parser():
-    with open("economic_data/cpi_data.json", 'r') as f:
-        cpi_data = json.load(f)
-    cpi_df = pd.DataFrame(cpi_data)
-    cpi_df["month"] = cpi_df["period"].str.replace("M", "").astype(int)
-    cpi_df["Date"] = pd.to_datetime({
-    "year": cpi_df["year"].astype(int),
-    "month": cpi_df["month"],
-    "day": 1
-    })
-    cpi_df = cpi_df[cpi_df['value'] != "-"]
-    cpi_df['value'] = cpi_df['value'].astype(float)
-    cpi_df = cpi_df.sort_values("Date").reset_index(drop=True)
-    cpi_df["percent change"] = cpi_df["value"].pct_change() * 100
-    return cpi_df
-
-
-def ppi_data_parser():
-    with open('economic_data/ppi_data.json', 'r') as f:
-        ppi_data = json.load(f)
-    ppi_df = pd.DataFrame(ppi_data)
-    ppi_df["month"] = ppi_df["period"].str.replace("M", "").astype(int)
-    ppi_df["Date"] = pd.to_datetime({
-    "year": ppi_df["year"].astype(int),
-    "month": ppi_df["month"],
-    "day": 1
-    })
-    ppi_df = ppi_df[ppi_df['value'] != "-"]
-    ppi_df['value'] = ppi_df['value'].astype(float)
-    ppi_df = ppi_df.sort_values("Date").reset_index(drop=True)
-    ppi_df["percent change"] = ppi_df["value"].pct_change() * 100
-    return ppi_df
-
-
-def pce_data_parser():
-    with open('economic_data/pce_data.json', 'r') as f:
-        pce_data = json.load(f)
-    pce_df = pd.DataFrame(pce_data)
-    pce_df["Date"] = pd.to_datetime(pce_df["Time Period"], format="%YM%m")
-    pce_df["Data Value"] = pce_df["Data Value"].str.replace(",", '').astype(int)
-    pce_df = pce_df.sort_values("Date").reset_index(drop=True)
-    pce_df["percent change"] = pce_df["Data Value"].pct_change() * 100
-    return pce_df
-
-
-def cs_data_parser():
-    with open('economic_data/consumer_sentiment_data.json', 'r') as f:
-        cci_data = json.load(f)
-    cci_df = pd.DataFrame(cci_data)
-    cci_df['date'] = pd.to_datetime(cci_df['date'])
-    cci_df['value'] = cci_df['value'].astype(float)
-    return cci_df
-
-
-def fed_funds_rate_data_parser():
-    with open('economic_data/fed_funds_rate.json', 'r') as f:
-        fed_funds_data = json.load(f)
-    fed_df = pd.DataFrame(fed_funds_data)
-    fed_df['date'] = pd.to_datetime(fed_df['date'])
-    fed_df['value'] = fed_df['value'].astype(float)
-    return fed_df
-    
-
-def retail_sales_data_parser():
-    with open('economic_data/retail_sales_data.json', 'r') as f:
-        retail_sales_data = json.load(f)
-    rs_df = pd.DataFrame(retail_sales_data)
-    rs_df['date'] = pd.to_datetime(rs_df['date'])
-    rs_df['value'] = rs_df['value'].astype(float)
-    rs_df = rs_df.sort_values("date").reset_index(drop=True)
-    rs_df["percent change"] = rs_df["value"].pct_change() * 100
-    return rs_df
-
-
-def sp500_data_parser():
-    with open('economic_data/sp500_data.json', 'r') as f:
-        sp500_data = json.load(f)
-    sp500_df = pd.DataFrame(sp500_data)
-    sp500_df['date'] = pd.to_datetime(sp500_df['date'])
-    sp500_df = sp500_df[sp500_df['value'] != '.']
-    sp500_df['value'] = sp500_df['value'].astype(float)
-    sp500_df["percent change"] = sp500_df["value"].pct_change(periods=25) * 100
-    return sp500_df
-
-
-def inflation_rate_parser():
-    with open('economic_data/cpi_data.json', 'r') as f:
-        cpi_data = json.load(f)
-    cpi_df = pd.DataFrame(cpi_data)
-    cpi_df["month"] = cpi_df["period"].str.replace("M", "").astype(int)
-    cpi_df["Date"] = pd.to_datetime({
-    "year": cpi_df["year"].astype(int),
-    "month": cpi_df["month"],
-    "day": 1
-    })
-    cpi_df = cpi_df[cpi_df['value'] != "-"]
-    cpi_df['value'] = cpi_df['value'].astype(float)
-    cpi_df = cpi_df.sort_values("Date").reset_index(drop=True)
-    cpi_df["percent change"] = cpi_df["value"].pct_change(periods=12) * 100
-    return cpi_df
 
 
 def add_zone(fig, row, y0, y1, color, opacity=0.22):
@@ -155,17 +26,19 @@ def _x_axis_range_update(start_date, end_date):
     return update
 
 
-def create_economic_dashboard(show=True):
-    gdp_df = gdp_data_parser()
-    unemployment_rate_df = unemployment_rate_data_parser()
-    cpi_data_df = cpi_data_parser()
-    ppi_data_df = ppi_data_parser()
-    pce_data_df = pce_data_parser()
-    cs_data_df = cs_data_parser()
-    fed_funds_rate_df = fed_funds_rate_data_parser()
-    retail_sales_df = retail_sales_data_parser()
-    sp500_df = sp500_data_parser()
-    inflation_rate_df = inflation_rate_parser()
+def create_economic_dashboard(data : dict, show=False):
+
+    # Assigning the Dataframes
+    gdp_df = data['gdp']
+    unemployment_rate_df = data['unemployment_rate']
+    cpi_data_df = data['cpi']
+    ppi_data_df = data['ppi']
+    pce_data_df = data['pce']
+    cs_data_df = data['consumer_sentiment']
+    fed_funds_rate_df = data['fed_funds_rate']
+    retail_sales_df = data['retail_sales']
+    sp500_df = data['sp500']
+    inflation_rate_df = data['inflation_rate']
 
     # finds the latest date
     latest_date = max(
@@ -180,8 +53,8 @@ def create_economic_dashboard(show=True):
     sp500_df["date"].max(),
     inflation_rate_df["Date"].max()
     )
-    print(latest_date)
 
+    # Making the figure
     fig = make_subplots(
         rows=10, 
         cols=1,
@@ -200,6 +73,7 @@ def create_economic_dashboard(show=True):
             "Inflation Rate",
         ]
     )
+
     # GDP Graph
     fig.add_trace(
         go.Scatter(
@@ -220,6 +94,7 @@ def create_economic_dashboard(show=True):
     line=dict(color="black"),
     marker=dict(color="black")
     )
+
     # Unemployment Rate Graph
     fig.add_trace(
         go.Scatter(
@@ -240,6 +115,7 @@ def create_economic_dashboard(show=True):
     line=dict(color="black"),
     marker=dict(color="black")
     )
+
     # Consumer Price Index Graph
     fig.add_trace(
         go.Scatter(
@@ -260,6 +136,7 @@ def create_economic_dashboard(show=True):
     line=dict(color="black"),
     marker=dict(color="black")
     )
+
     # Produce Price Index Graph
     fig.add_trace(
         go.Scatter(
@@ -280,6 +157,7 @@ def create_economic_dashboard(show=True):
     line=dict(color="black"),
     marker=dict(color="black")
     )
+
     # Personal Consumption Expenditures Graph
     fig.add_trace(
         go.Scatter(
@@ -300,6 +178,7 @@ def create_economic_dashboard(show=True):
     line=dict(color="black"),
     marker=dict(color="black")
     )
+
     # Consumer Sentiment Graph
     fig.add_trace(
         go.Scatter(
@@ -315,6 +194,7 @@ def create_economic_dashboard(show=True):
     line=dict(color="black"),
     marker=dict(color="black")
     )
+
     # Federal Funds Effective Rate Graph
     fig.add_trace(
         go.Scatter(
@@ -335,6 +215,7 @@ def create_economic_dashboard(show=True):
     line=dict(color="black"),
     marker=dict(color="black")
     )
+
     # Retail Sales Graph
     fig.add_trace(
         go.Scatter(
@@ -355,6 +236,7 @@ def create_economic_dashboard(show=True):
     line=dict(color="black"),
     marker=dict(color="black")
     )
+
     # MoM Percent Change in the S&P 500 Graph
     fig.add_trace(
         go.Scatter(
@@ -375,6 +257,7 @@ def create_economic_dashboard(show=True):
     line=dict(color="black"),
     marker=dict(color="black")
     )
+
     # Inflation Rate Graph
     fig.add_trace(
         go.Scatter(
@@ -398,6 +281,7 @@ def create_economic_dashboard(show=True):
     line=dict(color="black"),
     marker=dict(color="black")
     )
+
     # General Dashboard Adjustments
     fig.update_layout(
     height=3600,
@@ -413,6 +297,7 @@ def create_economic_dashboard(show=True):
     fig.update_annotations(
     font=dict(size=18)
     )
+
     # Adding the time range choices
     fig.update_layout(
     updatemenus=[
@@ -454,6 +339,7 @@ def create_economic_dashboard(show=True):
     ]
     )
     initial_start_date = latest_date - pd.DateOffset(years=5)
+
     # write the graph descriptions
     graph_descriptions = [
     "A measure of the percentage change in real GDP from year to year.<br> Real GDP is sum total of the market value of all goods and services produced within a country within a particular time interval, accounting for Inflation.",
@@ -467,8 +353,6 @@ def create_economic_dashboard(show=True):
     "A measure of the percentage change of the S&P 500 index from year to year. ",
     "The inflation rate of the US for each time period."
     ]
-
-
     for annotation, description in zip(fig.layout.annotations, graph_descriptions):
         annotation.update(
             hovertext=description,
@@ -560,6 +444,7 @@ def create_economic_dashboard(show=True):
     add_zone(fig, 10, 3, 4, YELLOW)
     add_zone(fig, 10, 4, inflation_rate_df["percent change"].max() + 1, RED)
     
+    # Ensuring a grid is displayed
     fig.update_yaxes(
     tickfont=dict(color="black"),
     title_font=dict(color="black"),
@@ -572,7 +457,7 @@ def create_economic_dashboard(show=True):
         showgrid=True, 
         gridcolor="#E5E7EB"
     )
-    
+
     if show:
         fig.show()
 
